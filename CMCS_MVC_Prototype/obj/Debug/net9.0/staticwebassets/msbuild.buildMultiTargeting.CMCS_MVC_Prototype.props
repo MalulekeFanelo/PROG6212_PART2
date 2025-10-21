@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CMCS_MVC_Prototype.props" />
+</Project>

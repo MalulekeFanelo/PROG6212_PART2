@@ -1,0 +1,917 @@
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.exe
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.deps.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.pdb
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\bundle\CMCS_MVC_Prototype.styles.css
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\projectbundle\CMCS_MVC_Prototype.bundle.scp.css
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\saa58tzzyp-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\42rh03ydmm-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tk3bx74w3q-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\jtafzgcii4-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\3p7atavyv2-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\cwfmvm554k-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\9ojdcrge6a-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7kxz1ckiku-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\zqtltncjhv-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\fsfo0olbpk-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\6x2y95h0kn-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\qgpv95xndu-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\vjufmmkf48-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\yqgojr73v4-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\5gxlnusy2r-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\p0gmzyhe5q-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7no34y99nf-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\l29pkb1t9o-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\c5h57aaymg-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\707vjrofw1-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\4br2s6shfw-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\1b0a1ort1c-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\fuo8bg5bfj-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\rtflk8offs-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\h6vd8j2i52-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\78pg3w30hu-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r03ix1ubs4-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\umplf7kw52-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\c0azwi7eh8-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tmgpj5z2he-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\h4sb1c72f5-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ecz5r93ltt-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\l2cb5kmgmw-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\8ekubu708w-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\u8iv7zhuw1-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ky9j7owqxa-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\268mtx5u2f-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r9i6wsldh2-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\b1ouedx7nd-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\89hn5njftm-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\y1dsjufm9f-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\s6ln2qfirr-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\dh86rwsx9d-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\z6rqhufk1q-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r3dfrfjc8t-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\4cn4wbhtul-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\6h5tsbnq6z-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\5v0vha6ddj-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\p4l2wrspzu-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ro6kzape28-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\am5lo0375l-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\omwfbshoag-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\j9p2athxcb-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\t7aehkszn6-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\jn6ztl427g-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\2lk95pym6i-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\z2wa9mahmz-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\prqhcjey7t-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7tibr2pgdl-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tyqbged7bf-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\uluvlbdhyx-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\i46a6v83an-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\hck6jrbk99-nrxi4sk556.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\2lr6yc2z0d-nrxi4sk556.gz
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.CMCS_MVC_Prototype.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.CMCS_MVC_Prototype.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.build.CMCS_MVC_Prototype.props
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CMCS_MVC_Prototype.props
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CMCS_MVC_Prototype.props
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC.246366DA.Up2Date
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\refint\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.pdb
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\PROG6212\CMCS_MVC_Prototype\obj\Debug\net9.0\ref\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.exe
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.deps.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.pdb
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.sourcelink.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\bundle\CMCS_MVC_Prototype.styles.css
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\projectbundle\CMCS_MVC_Prototype.bundle.scp.css
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\saa58tzzyp-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\42rh03ydmm-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tk3bx74w3q-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\jtafzgcii4-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\3p7atavyv2-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\cwfmvm554k-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\9ojdcrge6a-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7kxz1ckiku-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\zqtltncjhv-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\fsfo0olbpk-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\6x2y95h0kn-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\qgpv95xndu-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\vjufmmkf48-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\yqgojr73v4-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\5gxlnusy2r-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\p0gmzyhe5q-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7no34y99nf-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\l29pkb1t9o-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\c5h57aaymg-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\707vjrofw1-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\4br2s6shfw-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\1b0a1ort1c-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\fuo8bg5bfj-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\rtflk8offs-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\h6vd8j2i52-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\78pg3w30hu-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r03ix1ubs4-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\umplf7kw52-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\c0azwi7eh8-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tmgpj5z2he-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\h4sb1c72f5-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ecz5r93ltt-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\l2cb5kmgmw-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\8ekubu708w-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\u8iv7zhuw1-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ky9j7owqxa-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\268mtx5u2f-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r9i6wsldh2-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\b1ouedx7nd-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\89hn5njftm-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\y1dsjufm9f-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\s6ln2qfirr-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\dh86rwsx9d-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\z6rqhufk1q-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r3dfrfjc8t-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\4cn4wbhtul-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\6h5tsbnq6z-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\5v0vha6ddj-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\p4l2wrspzu-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ro6kzape28-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\am5lo0375l-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\omwfbshoag-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\j9p2athxcb-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\t7aehkszn6-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\jn6ztl427g-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\2lk95pym6i-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\z2wa9mahmz-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\prqhcjey7t-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7tibr2pgdl-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tyqbged7bf-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\uluvlbdhyx-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\i46a6v83an-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\hck6jrbk99-nrxi4sk556.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\2lr6yc2z0d-nrxi4sk556.gz
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.CMCS_MVC_Prototype.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.CMCS_MVC_Prototype.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.build.CMCS_MVC_Prototype.props
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CMCS_MVC_Prototype.props
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CMCS_MVC_Prototype.props
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC.246366DA.Up2Date
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\refint\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.pdb
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\PROG6212\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\ref\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.exe
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.deps.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\CMCS_MVC_Prototype.pdb
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.sourcelink.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\bundle\CMCS_MVC_Prototype.styles.css
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\scopedcss\projectbundle\CMCS_MVC_Prototype.bundle.scp.css
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\saa58tzzyp-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\42rh03ydmm-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tk3bx74w3q-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\jtafzgcii4-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\3p7atavyv2-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\cwfmvm554k-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\9ojdcrge6a-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7kxz1ckiku-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\zqtltncjhv-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\fsfo0olbpk-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\6x2y95h0kn-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\qgpv95xndu-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\vjufmmkf48-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\yqgojr73v4-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\5gxlnusy2r-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\p0gmzyhe5q-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7no34y99nf-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\l29pkb1t9o-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\c5h57aaymg-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\707vjrofw1-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\4br2s6shfw-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\1b0a1ort1c-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\fuo8bg5bfj-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\rtflk8offs-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\h6vd8j2i52-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\78pg3w30hu-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r03ix1ubs4-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\umplf7kw52-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\c0azwi7eh8-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tmgpj5z2he-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\h4sb1c72f5-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ecz5r93ltt-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\l2cb5kmgmw-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\8ekubu708w-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\u8iv7zhuw1-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ky9j7owqxa-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\268mtx5u2f-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r9i6wsldh2-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\b1ouedx7nd-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\89hn5njftm-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\y1dsjufm9f-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\s6ln2qfirr-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\dh86rwsx9d-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\z6rqhufk1q-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\r3dfrfjc8t-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\4cn4wbhtul-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\6h5tsbnq6z-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\5v0vha6ddj-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\p4l2wrspzu-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\ro6kzape28-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\am5lo0375l-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\omwfbshoag-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\j9p2athxcb-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\t7aehkszn6-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\jn6ztl427g-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\2lk95pym6i-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\z2wa9mahmz-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\prqhcjey7t-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\7tibr2pgdl-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\tyqbged7bf-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\uluvlbdhyx-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\i46a6v83an-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\hck6jrbk99-nrxi4sk556.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\compressed\2lr6yc2z0d-nrxi4sk556.gz
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC.246366DA.Up2Date
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\refint\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.pdb
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\obj\Debug\net9.0\ref\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\New folder\prog6212-part1-MalulekeFanelo\prog6212-part1-MalulekeFanelo\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll

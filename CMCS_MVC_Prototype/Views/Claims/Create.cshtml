@@ -1,0 +1,184 @@
+﻿@model CMCS_MVC_Prototype.Models.Claim
+@{
+    ViewData["Title"] = "Submit Your Claim";
+}
+
+<style>
+    #totalAmount {
+        font-weight: bold;
+        background-color: #f8f9fa !important;
+        border: 2px solid #dee2e6;
+    }
+
+    .form-control:focus {
+        border-color: #007bff;
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+    }
+
+    .is-invalid {
+        border-color: #dc3545 !important;
+    }
+
+    .table th {
+        background-color: #343a40;
+        color: white;
+        font-weight: bold;
+    }
+
+    .badge {
+        font-size: 0.85em;
+        padding: 0.5em 0.75em;
+    }
+</style>
+
+<div class="container mt-4">
+    <h2>Submit Your Claim</h2>
+
+    <form asp-action="Create" asp-controller="Claims" method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken()
+
+        <!-- Validation Errors -->
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div class="alert alert-danger">
+                <h5>Please fix the following errors:</h5>
+                <ul>
+                    @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                    {
+                        <li>@error.ErrorMessage</li>
+                    }
+                </ul>
+            </div>
+        }
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group mb-3">
+                    <label asp-for="LecturerName" class="form-label fw-bold"></label>
+                    <input asp-for="LecturerName" class="form-control" placeholder="Enter your full name" id="lecturerName" />
+                    <span asp-validation-for="LecturerName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Month" class="form-label fw-bold"></label>
+                    <select asp-for="Month" class="form-control">
+                        <option value="">Select Month</option>
+                        <option value="2025-01">January 2025</option>
+                        <option value="2025-02">February 2025</option>
+                        <option value="2025-03">March 2025</option>
+                        <option value="2025-04">April 2025</option>
+                        <option value="2025-05">May 2025</option>
+                        <option value="2025-06">June 2025</option>
+                        <option value="2025-07">July 2025</option>
+                        <option value="2025-08">August 2025</option>
+                        <option value="2025-09">September 2025</option>
+                        <option value="2025-10">October 2025</option>
+                        <option value="2025-11">November 2025</option>
+                        <option value="2025-12">December 2025</option>
+                    </select>
+                    <span asp-validation-for="Month" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group mb-3">
+                    <label asp-for="HoursWorked" class="form-label fw-bold"></label>
+                    <input asp-for="HoursWorked" class="form-control" type="number" step="0.1" min="0.1" max="1000" id="hoursWorked" placeholder="Enter hours worked" />
+                    <span asp-validation-for="HoursWorked" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="HourlyRate" class="form-label fw-bold"></label>
+                    <input asp-for="HourlyRate" class="form-control" type="number" step="0.1" min="1" max="500" id="hourlyRate" placeholder="Enter hourly rate" />
+                    <span asp-validation-for="HourlyRate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Total Amount</label>
+                    <div class="input-group">
+                        <span class="input-group-text">R</span>
+                        <input type="text" class="form-control" id="totalAmount" value="0.00" readonly style="font-weight: bold; font-size: 1.1em; background-color: #f8f9fa;">
+                    </div>
+                    <small class="form-text text-muted">This amount is automatically calculated</small>
+                </div>
+            </div>
+        </div>
+
+        <!-- Preview Generated Lecturer ID -->
+        <div class="alert alert-info mb-3" id="lecturerIdPreview" style="display: none;">
+            <strong>Your Lecturer ID will be generated automatically:</strong>
+            <span id="generatedIdPreview" class="fw-bold"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Notes" class="form-label fw-bold"></label>
+            <textarea asp-for="Notes" class="form-control" rows="3" placeholder="Add any relevant details or remarks about your claim..."></textarea>
+            <span asp-validation-for="Notes" class="text-danger"></span>
+        </div>
+
+        <hr />
+
+        <div class="form-group mb-4">
+            <label class="form-label fw-bold">Supporting Documents</label>
+            <input type="file" class="form-control" id="document" name="document" />
+            <small class="form-text text-muted">Accepted file types: PDF, Word, or images. Max file size: 10MB</small>
+        </div>
+
+        <hr />
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-lg">Submit Claim</button>
+            <a asp-action="Index" class="btn btn-secondary btn-lg">Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            // Calculate total amount function
+            function calculateTotal() {
+                var hours = parseFloat($('#hoursWorked').val()) || 0;
+                var rate = parseFloat($('#hourlyRate').val()) || 0;
+                var total = hours * rate;
+
+                $('#totalAmount').val(total.toFixed(2));
+
+                if (total > 0) {
+                    $('#totalAmount').css('color', '#198754');
+                } else {
+                    $('#totalAmount').css('color', '#6c757d');
+                }
+            }
+
+            // Generate Lecturer ID preview
+            function generateLecturerIdPreview() {
+                var fullName = $('#lecturerName').val().trim();
+                if (fullName.length < 2) {
+                    $('#lecturerIdPreview').hide();
+                    return;
+                }
+
+                var nameParts = fullName.split(' ');
+                var firstName = nameParts[0].toLowerCase();
+                var lastName = nameParts.length > 1 ? nameParts[nameParts.length - 1].toLowerCase() : firstName;
+
+                var lastPart = lastName.length >= 3 ? lastName.substring(0, 3) : lastName.padEnd(3, 'x');
+                var firstPart = firstName.length >= 2 ? firstName.substring(0, 2) : firstName.padEnd(2, 'x');
+
+                // Show preview without random digits (they'll be generated on server)
+                var previewId = lastPart + firstPart + 'XXX';
+                $('#generatedIdPreview').text(previewId.toUpperCase());
+                $('#lecturerIdPreview').show();
+            }
+
+            // Event listeners
+            $('#hoursWorked, #hourlyRate').on('input', calculateTotal);
+            $('#lecturerName').on('input', generateLecturerIdPreview);
+
+            // Initialize
+            calculateTotal();
+            generateLecturerIdPreview();
+        });
+    </script>
+}

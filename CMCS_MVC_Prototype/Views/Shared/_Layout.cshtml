@@ -1,0 +1,119 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CMCS</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <!-- Alternative Without Font Awesome - Using Unicode Emojis -->
+    <style>
+        .emoji-icon {
+            font-size: 1.1em;
+            margin-right: 0.3em;
+        }
+
+        .btn .emoji-icon {
+            font-size: 1em;
+        }
+    </style>
+
+    @if (IsSectionDefined("Styles"))
+    {
+        @RenderSection("Styles", required: false)
+    }
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand fw-bold" asp-controller="Home" asp-action="Index">
+                    📋 CMCS
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                <span class="emoji-icon">🏠</span>Home
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Claims" asp-action="Index">
+                                <span class="emoji-icon">📄</span>My Claims
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Claims" asp-action="Create">
+                                <span class="emoji-icon">➕</span>Submit Claim
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Coordinator" asp-action="Index">
+                                <span class="emoji-icon">👨‍💼</span>Coordinator
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Manager" asp-action="Index">
+                                <span class="emoji-icon">👔</span>Manager
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Privacy">
+                                <span class="emoji-icon">🔒</span>Privacy
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main role="main" class="container py-4">
+        <!-- Success/Error Messages -->
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                <span class="emoji-icon">✅</span>@TempData["SuccessMessage"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <span class="emoji-icon">❌</span>@TempData["ErrorMessage"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+
+        @RenderBody()
+    </main>
+
+    <footer class="border-top footer text-muted text-center py-3">
+        <div class="container">
+            <span class="emoji-icon">©️</span> 2025 - Contract Monthly Claim System (CMCS)
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Add validation scripts -->
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+    @if (IsSectionDefined("Scripts"))
+    {
+        @RenderSection("Scripts", required: false)
+    }
+</body>
+</html>
