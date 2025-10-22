@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 
-    <!-- Alternative Without Font Awesome - Using Unicode Emojis -->
     <style>
         .emoji-icon {
             font-size: 1.1em;
@@ -78,7 +77,7 @@
     </header>
 
     <main role="main" class="container py-4">
-        <!-- Success/Error Messages -->
+        
         @if (TempData["SuccessMessage"] != null)
         {
             <div class="alert alert-success alert-dismissible fade show" role="alert">
@@ -107,7 +106,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Add validation scripts -->
+  
     <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
     <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 
