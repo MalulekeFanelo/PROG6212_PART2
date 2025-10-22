@@ -36,17 +36,17 @@ namespace CMCS_MVC.Tests
         [Fact]
         public void Create_GET_ReturnsViewResult()
         {
-            // Act
+            
             var result = _controller.Create();
 
-            // Assert
+            
             result.Should().BeOfType<ViewResult>();
         }
 
         [Fact]
         public async Task Create_POST_WithValidModel_RedirectsToIndex()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 LecturerName = "John Doe",
@@ -57,10 +57,10 @@ namespace CMCS_MVC.Tests
             };
             IFormFile document = null; // No file uploaded
 
-            // Act
+          
             var result = await _controller.Create(claim, document);
 
-            // Assert
+           
             result.Should().BeOfType<RedirectToActionResult>()
                 .Which.ActionName.Should().Be("Index");
         }
@@ -68,7 +68,7 @@ namespace CMCS_MVC.Tests
         [Fact]
         public async Task Create_POST_WithValidModel_GeneratesLecturerId()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 LecturerName = "John Doe",
@@ -78,10 +78,10 @@ namespace CMCS_MVC.Tests
             };
             IFormFile document = null;
 
-            // Act
+            
             await _controller.Create(claim, document);
 
-            // Assert
+            
             claim.LecturerId.Should().NotBeNullOrEmpty();
             claim.LecturerId.Should().MatchRegex("^[A-Z]{5}\\d{3}$"); // Format: ABCDE123
         }
@@ -115,7 +115,7 @@ namespace CMCS_MVC.Tests
             // Arrange
             var claim = new Claim
             {
-                LecturerName = "", // Invalid - empty name
+                LecturerName = "", 
                 Month = "2025-03",
                 HoursWorked = 10.0m,
                 HourlyRate = 50.0m
@@ -123,17 +123,17 @@ namespace CMCS_MVC.Tests
             IFormFile document = null;
             _controller.ModelState.AddModelError("LecturerName", "Required");
 
-            // Act
+            
             var result = await _controller.Create(claim, document);
 
-            // Assert
+            
             result.Should().BeOfType<ViewResult>();
         }
 
         [Fact]
         public async Task Create_POST_WithFileUpload_SavesDocumentPath()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 LecturerName = "John Doe",
@@ -155,10 +155,9 @@ namespace CMCS_MVC.Tests
             mockFile.Setup(_ => _.FileName).Returns(fileName);
             mockFile.Setup(_ => _.Length).Returns(ms.Length);
 
-            // Act
+            
             await _controller.Create(claim, mockFile.Object);
 
-            // Assert
             var savedClaim = await _context.Claims.FirstOrDefaultAsync(c => c.LecturerName == "John Doe");
             savedClaim.Should().NotBeNull();
             savedClaim.DocumentPath.Should().NotBeNullOrEmpty();
@@ -168,93 +167,93 @@ namespace CMCS_MVC.Tests
         [Fact]
         public async Task Create_POST_WithZeroHours_ReturnsViewWithError()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 LecturerName = "John Doe",
                 Month = "2025-03",
-                HoursWorked = 0m, // Invalid - zero hours
+                HoursWorked = 0m, 
                 HourlyRate = 50.0m
             };
             IFormFile document = null;
             _controller.ModelState.AddModelError("HoursWorked", "Hours must be greater than 0");
 
-            // Act
+            
             var result = await _controller.Create(claim, document);
 
-            // Assert
+           
             result.Should().BeOfType<ViewResult>();
         }
 
         [Fact]
         public async Task Create_POST_WithNegativeRate_ReturnsViewWithError()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 LecturerName = "John Doe",
                 Month = "2025-03",
                 HoursWorked = 10.0m,
-                HourlyRate = -10.0m // Invalid - negative rate
+                HourlyRate = -10.0m 
             };
             IFormFile document = null;
             _controller.ModelState.AddModelError("HourlyRate", "Rate must be positive");
 
-            // Act
+            
             var result = await _controller.Create(claim, document);
 
-            // Assert
+            
             result.Should().BeOfType<ViewResult>();
         }
 
         [Fact]
         public void LecturerId_Generation_FromDifferentNames_ProducesDifferentIds()
         {
-            // Arrange
+            
             var claim1 = new Claim { LecturerName = "John Smith" };
             var claim2 = new Claim { LecturerName = "Sarah Johnson" };
 
-            // Act
+            
             claim1.GenerateLecturerId();
             claim2.GenerateLecturerId();
 
-            // Assert
+           
             claim1.LecturerId.Should().NotBe(claim2.LecturerId);
         }
 
         [Fact]
         public void LecturerId_Generation_FromSameName_ProducesDifferentIds()
         {
-            // Arrange
+           
             var claim1 = new Claim { LecturerName = "John Smith" };
             var claim2 = new Claim { LecturerName = "John Smith" };
 
-            // Act
+           
             claim1.GenerateLecturerId();
             claim2.GenerateLecturerId();
 
-            // Assert
+            
             claim1.LecturerId.Should().NotBe(claim2.LecturerId);
         }
 
         [Fact]
         public void Total_Calculation_IsCorrect()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 HoursWorked = 15.5m,
                 HourlyRate = 100.0m
             };
 
-            // Act & Assert
-            claim.Total.Should().Be(1550.0m); // 15.5 * 100
+           
+            claim.Total.Should().Be(1550.0m); 
         }
 
         [Fact]
         public async Task Create_POST_SetsCorrectTimestamp()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 LecturerName = "John Doe",
@@ -265,10 +264,9 @@ namespace CMCS_MVC.Tests
             IFormFile document = null;
             var beforeSubmit = DateTime.Now;
 
-            // Act
+            
             await _controller.Create(claim, document);
 
-            // Assert
             var savedClaim = await _context.Claims.FirstOrDefaultAsync(c => c.LecturerName == "John Doe");
             savedClaim.Should().NotBeNull();
             savedClaim.Submitted.Should().BeCloseTo(beforeSubmit, TimeSpan.FromSeconds(5));
@@ -287,10 +285,10 @@ namespace CMCS_MVC.Tests
             };
             IFormFile document = null;
 
-            // Act
+            
             await _controller.Create(claim, document);
 
-            // Assert
+            
             var savedClaim = await _context.Claims.FirstOrDefaultAsync(c => c.LecturerName == "Test User");
             savedClaim.Should().NotBeNull();
             savedClaim.DocumentPath.Should().BeEmpty();
@@ -299,7 +297,7 @@ namespace CMCS_MVC.Tests
         [Fact]
         public async Task Create_POST_WithEmptyFile_SetsEmptyDocumentPath()
         {
-            // Arrange
+            
             var claim = new Claim
             {
                 LecturerName = "Test User",
@@ -309,13 +307,13 @@ namespace CMCS_MVC.Tests
             };
 
             var mockFile = new Mock<IFormFile>();
-            mockFile.Setup(_ => _.Length).Returns(0); // Empty file
+            mockFile.Setup(_ => _.Length).Returns(0); 
             mockFile.Setup(_ => _.FileName).Returns("empty.txt");
 
-            // Act
+            
             await _controller.Create(claim, mockFile.Object);
 
-            // Assert
+            
             var savedClaim = await _context.Claims.FirstOrDefaultAsync(c => c.LecturerName == "Test User");
             savedClaim.Should().NotBeNull();
             savedClaim.DocumentPath.Should().BeEmpty();
