@@ -1,5 +1,10 @@
 wwwroot\css\site.css
+wwwroot\Documents\2519f71e-c682-4b4a-ba3e-e7370b670613_Best-Lip-Gloss.webp
+wwwroot\Documents\3f60ae13-ca32-4314-a2e3-fcd09361198f_fenty.webp
 wwwroot\Documents\56f5a222-7988-4c47-a08d-4a2da0b9cf11_ID.pdf
+wwwroot\Documents\75e890a0-a41f-4965-a6ff-43eb50a03f99_eyeshadow.webp
+wwwroot\Documents\a7d36c19-6d1d-4f01-aec4-81f9d0e6bd72_eyeshadow.webp
+wwwroot\Documents\c6528d5a-c7ed-4c63-83ce-3ba769d7b64e_bronzer.webp
 wwwroot\Documents\cb6201ce-7223-45b6-8941-4ed89e2e5861_blush.webp
 wwwroot\favicon.ico
 wwwroot\js\site.js
