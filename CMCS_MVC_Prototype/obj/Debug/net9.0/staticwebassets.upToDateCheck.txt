@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\Documents\56f5a222-7988-4c47-a08d-4a2da0b9cf11_ID.pdf
+wwwroot\Documents\cb6201ce-7223-45b6-8941-4ed89e2e5861_blush.webp
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
