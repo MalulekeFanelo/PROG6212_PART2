@@ -26,46 +26,10 @@ namespace CMCS_MVC_Prototype.Controllers
             return View(claims);
         }
 
-        // In ClaimController.cs - around line 109
-        public IActionResult Create(Claim claim, IFormFile document)
+        // GET: Claims/Create (Submit Claim)
+        public IActionResult Create()
         {
-            // Add null checks for critical dependencies
-            if (claim == null)
-            {
-                return BadRequest("Claim data cannot be null");
-            }
-
-            // Check if required services are initialized
-            if (_claimService == null)
-            {
-                // Initialize service or throw meaningful exception
-                throw new InvalidOperationException("Claim service is not initialized");
-            }
-
-            // Add null check for document if it's required
-            if (document == null || document.Length == 0)
-            {
-                ModelState.AddModelError("Document", "Document is required");
-            }
-
-            // Your existing logic here...
-            try
-            {
-                // Original line 109 logic with proper null checking
-                var result = _claimService?.ProcessClaim(claim, document);
-
-                if (result == null)
-                {
-                    return StatusCode(500, "Failed to process claim");
-                }
-
-                return View(result);
-            }
-            catch (Exception ex)
-            {
-                _logger?.LogError(ex, "Error creating claim");
-                return StatusCode(500, "Internal server error");
-            }
+            return View();
         }
 
         [HttpPost]

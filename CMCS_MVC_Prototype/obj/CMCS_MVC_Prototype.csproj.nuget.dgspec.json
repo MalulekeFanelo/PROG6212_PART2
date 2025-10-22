@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Desktop\\New folder\\prog6212-part1-MalulekeFanelo\\prog6212-part1-MalulekeFanelo\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\PROG_6212_PART2\\PROG6212_PART2\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Desktop\\New folder\\prog6212-part1-MalulekeFanelo\\prog6212-part1-MalulekeFanelo\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\PROG_6212_PART2\\PROG6212_PART2\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\New folder\\prog6212-part1-MalulekeFanelo\\prog6212-part1-MalulekeFanelo\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG_6212_PART2\\PROG6212_PART2\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj",
         "projectName": "CMCS_MVC_Prototype",
-        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\New folder\\prog6212-part1-MalulekeFanelo\\prog6212-part1-MalulekeFanelo\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG_6212_PART2\\PROG6212_PART2\\CMCS_MVC_Prototype\\CMCS_MVC_Prototype.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\New folder\\prog6212-part1-MalulekeFanelo\\prog6212-part1-MalulekeFanelo\\CMCS_MVC_Prototype\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG_6212_PART2\\PROG6212_PART2\\CMCS_MVC_Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
