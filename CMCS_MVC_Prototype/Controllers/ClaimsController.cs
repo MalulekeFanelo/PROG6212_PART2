@@ -58,24 +58,24 @@ namespace CMCS_MVC_Prototype.Controllers
                     {
                         Console.WriteLine("Starting file upload process...");
 
-                        // 1. Define the uploads folder path
+                        
                         var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Documents");
                         Console.WriteLine($"Uploads folder: {uploadsFolder}");
 
-                        // 2. Create the folder if it doesn't exist
+                        
                         if (!Directory.Exists(uploadsFolder))
                         {
                             Console.WriteLine("Creating Documents directory...");
                             Directory.CreateDirectory(uploadsFolder);
                         }
 
-                        // 3. Generate a unique filename to prevent overwrites
+                        
                         var uniqueFileName = Guid.NewGuid().ToString() + "_" + document.FileName;
                         var filePath = Path.Combine(uploadsFolder, uniqueFileName);
                         Console.WriteLine($"File will be saved as: {uniqueFileName}");
                         Console.WriteLine($"Full path: {filePath}");
 
-                        // 4. Save the file to the server
+                        
                         using (var stream = new FileStream(filePath, FileMode.Create))
                         {
                             await document.CopyToAsync(stream);
@@ -83,7 +83,7 @@ namespace CMCS_MVC_Prototype.Controllers
 
                         Console.WriteLine("File saved successfully!");
 
-                        // 5. Store the filename in the database
+                       
                         claim.DocumentPath = uniqueFileName;
                         Console.WriteLine($"DocumentPath set to: {claim.DocumentPath}");
                     }
@@ -93,7 +93,7 @@ namespace CMCS_MVC_Prototype.Controllers
                         claim.DocumentPath = "";
                     }
 
-                    // Generate Lecturer ID and save claim
+                    
                     claim.GenerateLecturerId();
                     await _claimService.CreateClaimAsync(claim);
 
