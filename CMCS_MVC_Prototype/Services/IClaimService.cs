@@ -13,5 +13,7 @@ namespace CMCS_MVC_Prototype.Services
         Task<int> CreateClaimAsync(Claim claim);
         Task UpdateClaimStatusAsync(int id, string status, string actionBy);
         Task DeleteClaimAsync(int id);
+        Task<List<Claim>> GetClaimsByMonthAsync(string month);
+
     }
 }

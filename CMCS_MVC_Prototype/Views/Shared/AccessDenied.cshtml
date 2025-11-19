@@ -1,0 +1,29 @@
+﻿@* Views/Shared/AccessDenied.cshtml *@
+@{
+    ViewData["Title"] = "Access Denied";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <div class="card border-danger shadow">
+                <div class="card-body py-5">
+                    <div style="font-size: 4rem;">🚫</div>
+                    <h2 class="text-danger mt-3">Access Denied</h2>
+                    <p class="lead text-muted">You don't have permission to access this page.</p>
+                    <p class="text-muted">Please contact your administrator if you believe this is an error.</p>
+
+                    <div class="mt-4">
+                        <a href="@Url.Action("Index", "Home")" class="btn btn-primary me-2">
+                            <span class="emoji-icon">🏠</span> Go Home
+                        </a>
+                        <a href="javascript:history.back()" class="btn btn-outline-secondary">
+                            <span class="emoji-icon">↩️</span> Go Back
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

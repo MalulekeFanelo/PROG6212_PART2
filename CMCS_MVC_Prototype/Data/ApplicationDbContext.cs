@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿// Data/ApplicationDbContext.cs
+using Microsoft.EntityFrameworkCore;
 using CMCS_MVC_Prototype.Models;
 
 namespace CMCS_MVC_Prototype.Data
@@ -10,11 +11,13 @@ namespace CMCS_MVC_Prototype.Data
         }
 
         public DbSet<Claim> Claims { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
+            // Claim entity configuration
             modelBuilder.Entity<Claim>(entity =>
             {
                 entity.HasKey(e => e.Id);
@@ -23,9 +26,8 @@ namespace CMCS_MVC_Prototype.Data
                     .IsRequired()
                     .HasMaxLength(100);
 
-                // CHANGED: Remove IsRequired() from LecturerId since it's auto-generated
                 entity.Property(e => e.LecturerId)
-                    .HasMaxLength(20); // Removed .IsRequired()
+                    .HasMaxLength(20);
 
                 entity.Property(e => e.Month)
                     .IsRequired()
@@ -39,7 +41,6 @@ namespace CMCS_MVC_Prototype.Data
                     .HasColumnType("decimal(10,2)")
                     .IsRequired();
 
-                // Computed column for Total
                 entity.Property(e => e.Total)
                     .HasColumnType("decimal(10,2)")
                     .HasComputedColumnSql("[HoursWorked] * [HourlyRate]");
@@ -60,6 +61,49 @@ namespace CMCS_MVC_Prototype.Data
 
                 entity.Property(e => e.ActionBy)
                     .HasMaxLength(100);
+
+                // Foreign key relationship
+                entity.HasOne<User>()
+                    .WithMany(u => u.Claims)
+                    .HasForeignKey(c => c.LecturerId)
+                    .HasPrincipalKey(u => u.LecturerId)
+                    .OnDelete(DeleteBehavior.Restrict);
+            });
+
+            // User entity configuration
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity.HasKey(e => e.Id);
+
+                entity.Property(e => e.FirstName)
+                    .IsRequired()
+                    .HasMaxLength(50);
+
+                entity.Property(e => e.LastName)
+                    .IsRequired()
+                    .HasMaxLength(50);
+
+                entity.Property(e => e.Email)
+                    .IsRequired()
+                    .HasMaxLength(100);
+
+                entity.Property(e => e.PasswordHash)
+                    .IsRequired()
+                    .HasMaxLength(255);
+
+                entity.Property(e => e.HourlyRate)
+                    .HasColumnType("decimal(10,2)")
+                    .IsRequired();
+
+                entity.Property(e => e.Role)
+                    .IsRequired()
+                    .HasMaxLength(20);
+
+                entity.Property(e => e.LecturerId)
+                    .HasMaxLength(20);
+
+                entity.HasIndex(e => e.Email).IsUnique();
+                entity.HasIndex(e => e.LecturerId).IsUnique();
             });
         }
     }

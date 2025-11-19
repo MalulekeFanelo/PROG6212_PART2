@@ -29,6 +29,15 @@ namespace CMCS_MVC_Prototype.Services
                 .ToListAsync();
         }
 
+        public async Task<List<Claim>> GetClaimsByMonthAsync(string month)
+        {
+            return await _context.Claims
+                .Where(c => c.Month == month)
+                .OrderByDescending(c => c.Submitted)
+                .ToListAsync();
+        }
+
+
         public async Task<List<Claim>> GetClaimsByLecturerIdAsync(string lecturerId)
         {
             return await _context.Claims
@@ -42,23 +51,32 @@ namespace CMCS_MVC_Prototype.Services
             return await _context.Claims.FindAsync(id);
         }
 
+        
         public async Task<int> CreateClaimAsync(Claim claim)
         {
             try
             {
-                // Make sure LecturerId is generated
+                Console.WriteLine("=== CLAIM SERVICE DEBUG ===");
+                Console.WriteLine($"Creating claim for: {claim.LecturerName}");
+                Console.WriteLine($"Hours: {claim.HoursWorked}, Rate: {claim.HourlyRate}, Total: {claim.Total}");
+
+                // Make sure LecturerId is generated (though it should be set by controller)
                 if (string.IsNullOrEmpty(claim.LecturerId))
                 {
                     claim.GenerateLecturerId();
+                    Console.WriteLine($"Generated LecturerId: {claim.LecturerId}");
                 }
 
                 _context.Claims.Add(claim);
                 await _context.SaveChangesAsync();
+
+                Console.WriteLine($"Claim created successfully with ID: {claim.Id}");
                 return claim.Id;
             }
             catch (Exception ex)
             {
-                // Log the error
+                Console.WriteLine($"ERROR in ClaimService: {ex.Message}");
+                Console.WriteLine($"Inner exception: {ex.InnerException?.Message}");
                 throw new Exception($"Error creating claim: {ex.Message}", ex);
             }
         }

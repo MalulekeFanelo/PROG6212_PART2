@@ -1261,3 +1261,12 @@ C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Pr
 C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.pdb
 C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\obj\Debug\net9.0\CMCS_MVC_Prototype.genruntimeconfig.cache
 C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\obj\Debug\net9.0\ref\CMCS_MVC_Prototype.dll
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\Select.Html.dep
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\DinkToPdf.dll
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\iTextSharp.LGPLv2.Core.dll
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\lab_services_student\Desktop\PROG_6212_PART2\PROG6212_PART2\CMCS_MVC_Prototype\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll

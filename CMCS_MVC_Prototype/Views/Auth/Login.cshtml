@@ -1,0 +1,80 @@
+﻿@* Views/Auth/Login.cshtml *@
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">🔐 Login to CMCS</h4>
+                </div>
+                <div class="card-body">
+                    @if (TempData["ErrorMessage"] != null)
+                    {
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            <span class="emoji-icon">❌</span>@TempData["ErrorMessage"]
+                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                        </div>
+                    }
+
+                    <form asp-action="Login" method="post">
+                        @Html.AntiForgeryToken()
+
+                        <input type="hidden" name="returnUrl" value="@ViewData["ReturnUrl"]" />
+
+                        <div class="mb-3">
+                            <label for="email" class="form-label fw-bold">📧 Email Address</label>
+                            <input type="email" class="form-control" id="email" name="email" required
+                                   placeholder="Enter your email address">
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="password" class="form-label fw-bold">🔒 Password</label>
+                            <input type="password" class="form-control" id="password" name="password" required
+                                   placeholder="Enter your password">
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                <span class="emoji-icon">🚀</span> Login
+                            </button>
+                        </div>
+                    </form>
+
+                    <div class="mt-4 text-center">
+                        <div class="alert alert-info">
+                            <h6>💡 Demo Accounts</h6>
+                            <small class="text-muted">
+                                <strong>HR:</strong> hr@university.edu / admin123<br>
+                                <strong>Lecturer:</strong> Use credentials provided by HR
+                            </small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border: none;
+        border-radius: 15px;
+    }
+
+    .card-header {
+        border-radius: 15px 15px 0 0 !important;
+    }
+
+    .btn {
+        border-radius: 10px;
+    }
+
+    .form-control {
+        border-radius: 10px;
+        padding: 12px;
+    }
+</style>

@@ -1,0 +1,152 @@
+﻿@* Views/HR/Reports.cshtml *@
+@model IEnumerable<CMCS_MVC_Prototype.Models.ReportViewModel>
+@{
+    ViewData["Title"] = "HR - Reports & Invoices";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">📊 Reports & Invoices</h2>
+
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header bg-info text-white">
+                    <h5 class="mb-0">📈 Monthly Summary</h5>
+                </div>
+                <div class="card-body">
+                    @if (Model.Any())
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Month</th>
+                                        <th>Total Claims</th>
+                                        <th>Pending Claims</th>
+                                        <th>Approved Claims</th>
+                                        <th>Total Amount</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var report in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <strong>@report.Month</strong>
+                                            </td>
+                                            <td>
+                                                <span class="badge bg-primary">@report.TotalClaims</span>
+                                            </td>
+                                            <td>
+                                                <span class="badge bg-warning text-dark">@report.PendingClaims</span>
+                                            </td>
+                                            <td>
+                                                <span class="badge bg-success">@report.ApprovedClaims</span>
+                                            </td>
+                                            <td>
+                                                <strong>R @report.TotalAmount.ToString("F2")</strong>
+                                            </td>
+                                            <td>
+                                                <form asp-action="GenerateInvoice" method="post" class="d-inline">
+                                                    <input type="hidden" name="month" value="@report.Month" />
+                                                    <button type="submit" class="btn btn-sm btn-outline-primary">
+                                                        <span class="emoji-icon">📄</span> Generate Invoice
+                                                    </button>
+                                                </form>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="text-center py-4">
+                            <div class="text-muted">
+                                <span style="font-size: 3rem;">📊</span>
+                                <h5>No report data available</h5>
+                                <p>There are no claims to generate reports from.</p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Stats -->
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h5 class="card-title">Total Users</h5>
+                            <h3>@ViewBag.TotalUsers</h3>
+                        </div>
+                        <div style="font-size: 2.5rem;">👥</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h5 class="card-title">Active Claims</h5>
+                            <h3>@ViewBag.TotalClaims</h3>
+                        </div>
+                        <div style="font-size: 2.5rem;">📄</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h5 class="card-title">Pending</h5>
+                            <h3>@ViewBag.PendingClaims</h3>
+                        </div>
+                        <div style="font-size: 2.5rem;">⏳</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-info mb-3">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h5 class="card-title">Total Value</h5>
+                            <h3>R @ViewBag.TotalValue</h3>
+                        </div>
+                        <div style="font-size: 2.5rem;">💰</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        .card {
+            border: none;
+            border-radius: 10px;
+        }
+
+        .card-header {
+            border-radius: 10px 10px 0 0 !important;
+        }
+
+        .badge {
+            font-size: 0.9em;
+            padding: 0.5em 0.75em;
+        }
+    </style>
+}

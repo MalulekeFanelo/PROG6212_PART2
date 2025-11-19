@@ -14,7 +14,7 @@ namespace CMCS_MVC_Prototype.Models
         [Display(Name = "Lecturer Name")]
         public string LecturerName { get; set; } = string.Empty;
 
-        // REMOVED [Required] attribute from LecturerId since it's auto-generated
+
         [StringLength(20)]
         [Display(Name = "Lecturer ID")]
         public string LecturerId { get; set; } = string.Empty;
@@ -30,8 +30,7 @@ namespace CMCS_MVC_Prototype.Models
         [Column(TypeName = "decimal(10,2)")]
         public decimal HoursWorked { get; set; }
 
-        [Required(ErrorMessage = "Hourly Rate is required")]
-        [Range(1, 500, ErrorMessage = "Rate must be between 1 and 500")]
+        // REMOVED validation attributes since rate is set by HR
         [Display(Name = "Hourly Rate")]
         [Column(TypeName = "decimal(10,2)")]
         public decimal HourlyRate { get; set; }

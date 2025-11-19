@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using CMCS_MVC_Prototype.Services;
+using CMCS_MVC_Prototype.Attributes;
 using System.Threading.Tasks;
 
 namespace CMCS_MVC_Prototype.Controllers
 {
+    [Authorize("Manager", "HR")] // Only Managers and HR can access
     public class ManagerController : Controller
     {
         private readonly IClaimService _claimService;

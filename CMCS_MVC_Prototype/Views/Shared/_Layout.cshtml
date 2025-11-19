@@ -1,6 +1,4 @@
-﻿@{
-    Layout = null;
-}
+﻿@* Views/Shared/_Layout.cshtml *@
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,37 +37,86 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ms-auto">
+                    <ul class="navbar-nav me-auto">
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Home" asp-action="Index">
                                 <span class="emoji-icon">🏠</span>Home
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Claims" asp-action="Index">
-                                <span class="emoji-icon">📄</span>My Claims
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Claims" asp-action="Create">
-                                <span class="emoji-icon">➕</span>Submit Claim
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Coordinator" asp-action="Index">
-                                <span class="emoji-icon">👨‍💼</span>Coordinator
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Manager" asp-action="Index">
-                                <span class="emoji-icon">👔</span>Manager
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Home" asp-action="Privacy">
-                                <span class="emoji-icon">🔒</span>Privacy
-                            </a>
-                        </li>
+                        @if (Context.Items["User"] != null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Claims" asp-action="Index">
+                                    <span class="emoji-icon">📄</span>My Claims
+                                </a>
+                            </li>
+
+                            @if (Context.Items["UserRole"] as string == "Lecturer")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Claims" asp-action="Create">
+                                        <span class="emoji-icon">➕</span>Submit Claim
+                                    </a>
+                                </li>
+                            }
+
+                            @if (Context.Items["UserRole"] as string == "HR")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="HR" asp-action="Index">
+                                        <span class="emoji-icon">👥</span>User Management
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="HR" asp-action="Reports">
+                                        <span class="emoji-icon">📊</span>Reports
+                                    </a>
+                                </li>
+                            }
+
+                            @if (Context.Items["UserRole"] as string == "Coordinator")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Coordinator" asp-action="Index">
+                                        <span class="emoji-icon">👨‍💼</span>Coordinator
+                                    </a>
+                                </li>
+                            }
+
+                            @if (Context.Items["UserRole"] as string == "Manager")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Manager" asp-action="Index">
+                                        <span class="emoji-icon">👔</span>Manager
+                                    </a>
+                                </li>
+                            }
+                        }
+                    </ul>
+
+                    <ul class="navbar-nav ms-auto">
+                        @if (Context.Items["User"] != null)
+                        {
+                            <li class="nav-item">
+                                <span class="navbar-text text-light me-3">
+                                    Welcome, @Context.Items["UserName"]
+                                </span>
+                            </li>
+                            <li class="nav-item">
+                                <form asp-controller="Auth" asp-action="Logout" method="post" class="d-inline">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit" class="btn btn-outline-light btn-sm">Logout</button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Auth" asp-action="Login">
+                                    <span class="emoji-icon">🔐</span>Login
+                                </a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>
@@ -77,7 +124,6 @@
     </header>
 
     <main role="main" class="container py-4">
-        
         @if (TempData["SuccessMessage"] != null)
         {
             <div class="alert alert-success alert-dismissible fade show" role="alert">
@@ -94,6 +140,7 @@
             </div>
         }
 
+        <!-- THIS IS THE CRITICAL LINE THAT WAS MISSING -->
         @RenderBody()
     </main>
 
@@ -106,7 +153,6 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
-  
     <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
     <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 
