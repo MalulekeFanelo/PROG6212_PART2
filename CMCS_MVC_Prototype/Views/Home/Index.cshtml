@@ -2,78 +2,51 @@
     ViewData["Title"] = "Home - Contract Monthly Claim System";
 }
 
-<!-- Enhanced Hero Section -->
-<section class="hero-section bg-gradient-primary text-white position-relative overflow-hidden">
+<!-- Hero Section -->
+<section class="hero-section bg-gradient-primary text-white py-5">
     <div class="container">
-        <div class="row align-items-center min-vh-80 py-5">
+        <div class="row align-items-center min-vh-50">
             <div class="col-lg-6">
-                <div class="hero-content">
-                    <div class="badge bg-warning text-dark px-3 py-2 rounded-pill mb-3">
-                        <i class="fas fa-bolt me-2"></i>Streamlined Claims Management
-                    </div>
-                    <h1 class="display-4 fw-bold mb-4 animate-fade-in">
-                        Contract Monthly <span class="text-warning">Claim System</span>
-                    </h1>
-                    <p class="lead mb-4 fs-5">
-                        Revolutionize your academic claim process with our intelligent platform designed for efficiency, transparency, and seamless collaboration.
-                    </p>
-                    <div class="d-flex flex-wrap gap-3 mb-4">
-                        <div class="d-flex align-items-center">
-                            <i class="fas fa-check-circle text-success me-2"></i>
-                            <small>Auto-calculation</small>
-                        </div>
-                        <div class="d-flex align-items-center">
-                            <i class="fas fa-chart-line text-info me-2"></i>
-                            <small>Real-time tracking</small>
-                        </div>
-                        <div class="d-flex align-items-center">
-                            <i class="fas fa-shield-alt text-warning me-2"></i>
-                            <small>Secure & compliant</small>
-                        </div>
-                    </div>
-                    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                        <a class="btn btn-warning btn-lg px-4 me-md-2 fw-bold shadow-hover" href="/Claims/Create">
-                            <i class="fas fa-rocket me-2"></i>Get Started
-                        </a>
-                        <a class="btn btn-outline-light btn-lg px-4 shadow-hover" href="/Claims/Index">
-                            <i class="fas fa-chart-bar me-2"></i>View Dashboard
-                        </a>
-                    </div>
+                <h1 class="display-4 fw-bold mb-4">Contract Monthly Claim System</h1>
+                <p class="lead mb-4">Streamline your monthly claim submissions, approvals, and payments with our efficient management platform designed for academic contractors.</p>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <a class="btn btn-light btn-lg px-4 me-md-2 fw-bold" href="/Claims/Create">
+                        📋 Submit New Claim
+                    </a>
+                    <a class="btn btn-outline-light btn-lg px-4" href="/Claims/Index">
+                        📊 View My Claims
+                    </a>
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="hero-visual text-center">
-                    <div class="main-hero-card">
-                        <div class="card bg-white bg-opacity-15 border-0 rounded-4 shadow-lg backdrop-blur">
-                            <div class="card-body p-4">
-                                <h5 class="card-title text-white mb-4 text-center">
-                                    <i class="fas fa-bolt me-2"></i>Quick Access
-                                </h5>
-                                <div class="row g-3">
-                                    <div class="col-6">
-                                        <a href="/Claims/Create" class="btn btn-primary w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3 rounded-3 shadow-hover">
-                                            <i class="fas fa-plus-circle display-6 mb-2 text-white"></i>
-                                            <small class="fw-bold text-white">Submit Claim</small>
-                                        </a>
-                                    </div>
-                                    <div class="col-6">
-                                        <a href="/Claims/Index" class="btn btn-info w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3 rounded-3 shadow-hover">
-                                            <i class="fas fa-file-invoice display-6 mb-2 text-white"></i>
-                                            <small class="fw-bold text-white">My Claims</small>
-                                        </a>
-                                    </div>
-                                    <div class="col-6">
-                                        <a href="/Coordinator/Index" class="btn btn-warning w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3 rounded-3 shadow-hover">
-                                            <i class="fas fa-user-tie display-6 mb-2 text-dark"></i>
-                                            <small class="fw-bold text-dark">Coordinator</small>
-                                        </a>
-                                    </div>
-                                    <div class="col-6">
-                                        <a href="/Manager/Index" class="btn btn-success w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3 rounded-3 shadow-hover">
-                                            <i class="fas fa-user-check display-6 mb-2 text-white"></i>
-                                            <small class="fw-bold text-white">Manager</small>
-                                        </a>
-                                    </div>
+            <div class="col-lg-6 text-center">
+                <div class="hero-graphic mt-4 mt-lg-0">
+                    <div class="card border-0 shadow-lg bg-white bg-opacity-10">
+                        <div class="card-body p-4">
+                            <h5 class="card-title text-white mb-3">Quick Access</h5>
+                            <div class="row g-3">
+                                <div class="col-6">
+                                    <a href="/Claims/Create" class="btn btn-light w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3">
+                                        <span style="font-size: 2rem;">➕</span>
+                                        <small class="mt-2">Submit Claim</small>
+                                    </a>
+                                </div>
+                                <div class="col-6">
+                                    <a href="/Claims/Index" class="btn btn-light w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3">
+                                        <span style="font-size: 2rem;">📄</span>
+                                        <small class="mt-2">My Claims</small>
+                                    </a>
+                                </div>
+                                <div class="col-6">
+                                    <a href="/Coordinator/Index" class="btn btn-warning w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3">
+                                        <span style="font-size: 2rem;">👨‍💼</span>
+                                        <small class="mt-2">Coordinator</small>
+                                    </a>
+                                </div>
+                                <div class="col-6">
+                                    <a href="/Manager/Index" class="btn btn-danger w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3">
+                                        <span style="font-size: 2rem;">👔</span>
+                                        <small class="mt-2">Manager</small>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -84,199 +57,86 @@
     </div>
 </section>
 
-<!-- Stats Section -->
-<section class="stats-section py-5 bg-light">
-    <div class="container">
-        <div class="row g-4 text-center">
-            <div class="col-md-3">
-                <div class="stat-card">
-                    <div class="stat-icon bg-primary bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;">
-                        <i class="fas fa-file-invoice-dollar display-6 text-primary"></i>
-                    </div>
-                    <h3 class="fw-bold text-primary mb-2">1,247+</h3>
-                    <p class="text-muted mb-0">Claims Processed</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stat-card">
-                    <div class="stat-icon bg-success bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;">
-                        <i class="fas fa-chalkboard-teacher display-6 text-success"></i>
-                    </div>
-                    <h3 class="fw-bold text-success mb-2">150+</h3>
-                    <p class="text-muted mb-0">Active Lecturers</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stat-card">
-                    <div class="stat-icon bg-warning bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;">
-                        <i class="fas fa-money-bill-wave display-6 text-warning"></i>
-                    </div>
-                    <h3 class="fw-bold text-warning mb-2">R 2.8M+</h3>
-                    <p class="text-muted mb-0">Total Processed</p>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="stat-card">
-                    <div class="stat-icon bg-danger bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;">
-                        <i class="fas fa-tachometer-alt display-6 text-danger"></i>
-                    </div>
-                    <h3 class="fw-bold text-danger mb-2">72%</h3>
-                    <p class="text-muted mb-0">Faster Processing</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Enhanced Features Section -->
-<section class="features-section py-5 bg-white position-relative">
+<!-- Features Section -->
+<section class="features-section py-5 bg-light">
     <div class="container">
         <div class="text-center mb-5">
-            <span class="badge bg-primary bg-opacity-10 text-primary px-3 py-2 rounded-pill mb-3">
-                <i class="fas fa-star me-2"></i>Features
-            </span>
-            <h2 class="fw-bold display-5 mb-3">Why Choose Our Platform?</h2>
-            <p class="lead text-muted mx-auto" style="max-width: 600px;">
-                Experience the future of academic claim management with cutting-edge features designed for modern education institutions.
-            </p>
-        </div>
-        <div class="row g-4">
-            <div class="col-md-6 col-lg-4">
-                <div class="feature-card card h-100 border-0 shadow-sm">
-                    <div class="card-body p-4">
-                        <div class="feature-icon-wrapper mb-4">
-                            <div class="bg-primary bg-opacity-10 rounded-3 d-inline-flex align-items-center justify-content-center p-3">
-                                <i class="fas fa-robot display-6 text-primary"></i>
-                            </div>
-                        </div>
-                        <h5 class="card-title fw-bold mb-3">Smart Auto-Fill</h5>
-                        <p class="card-text text-muted mb-4">
-                            Lecturer details and rates automatically populated from HR records. Focus on your work, not paperwork.
-                        </p>
-                        <ul class="list-unstyled">
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Auto lecturer ID generation</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Pre-filled hourly rates</li>
-                            <li><i class="fas fa-check text-success me-2"></i>Instant total calculation</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="feature-card card h-100 border-0 shadow-sm">
-                    <div class="card-body p-4">
-                        <div class="feature-icon-wrapper mb-4">
-                            <div class="bg-success bg-opacity-10 rounded-3 d-inline-flex align-items-center justify-content-center p-3">
-                                <i class="fas fa-chart-line display-6 text-success"></i>
-                            </div>
-                        </div>
-                        <h5 class="card-title fw-bold mb-3">Real-Time Tracking</h5>
-                        <p class="card-text text-muted mb-4">
-                            Monitor your claim's journey through every approval stage with live status updates and notifications.
-                        </p>
-                        <ul class="list-unstyled">
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Live status updates</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Email notifications</li>
-                            <li><i class="fas fa-check text-success me-2"></i>Approval timeline</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="feature-card card h-100 border-0 shadow-sm">
-                    <div class="card-body p-4">
-                        <div class="feature-icon-wrapper mb-4">
-                            <div class="bg-danger bg-opacity-10 rounded-3 d-inline-flex align-items-center justify-content-center p-3">
-                                <i class="fas fa-shield-alt display-6 text-danger"></i>
-                            </div>
-                        </div>
-                        <h5 class="card-title fw-bold mb-3">Secure & Compliant</h5>
-                        <p class="card-text text-muted mb-4">
-                            Bank-level security with full audit trails and compliance with educational institution regulations.
-                        </p>
-                        <ul class="list-unstyled">
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Role-based access</li>
-                            <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Document encryption</li>
-                            <li><i class="fas fa-check text-success me-2"></i>Audit trails</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Enhanced Role-Based Access Section -->
-<section class="roles-section py-5 bg-light">
-    <div class="container">
-        <div class="text-center mb-5">
-            <span class="badge bg-warning bg-opacity-10 text-warning px-3 py-2 rounded-pill mb-3">
-                <i class="fas fa-users me-2"></i>Platform Access
-            </span>
-            <h2 class="fw-bold display-5 mb-3">Tailored for Every Role</h2>
-            <p class="lead text-muted mx-auto" style="max-width: 600px;">
-                Customized interfaces and workflows designed specifically for each user's responsibilities.
-            </p>
+            <h2 class="fw-bold text-primary mb-3">How It Works</h2>
+            <p class="lead text-muted">A seamless process from submission to payment</p>
         </div>
         <div class="row g-4">
             <div class="col-md-4">
-                <div class="role-card card h-100 border-0 shadow-lg hover-lift">
-                    <div class="card-header bg-primary text-white text-center py-4 rounded-top">
-                        <div class="role-icon mb-3">
-                            <i class="fas fa-chalkboard-teacher display-1"></i>
+                <div class="card h-100 border-0 shadow-sm feature-card">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <div class="bg-primary bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
+                                <span style="font-size: 2rem;">📝</span>
+                            </div>
                         </div>
-                        <h4 class="mb-0">Lecturer</h4>
+                        <h5 class="card-title fw-bold">Submit Claims</h5>
+                        <p class="card-text text-muted">Easily submit your monthly claims with our intuitive form. Auto-calculation ensures accuracy, and automatic Lecturer ID generation simplifies the process.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm feature-card">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <div class="bg-success bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
+                                <span style="font-size: 2rem;">🔍</span>
+                            </div>
+                        </div>
+                        <h5 class="card-title fw-bold">Track Status</h5>
+                        <p class="card-text text-muted">Monitor your claim's journey in real-time. From submission to approval and payment, stay informed every step of the way with clear status indicators.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm feature-card">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon mb-3">
+                            <div class="bg-info bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
+                                <span style="font-size: 2rem;">📎</span>
+                            </div>
+                        </div>
+                        <h5 class="card-title fw-bold">Upload Documents</h5>
+                        <p class="card-text text-muted">Support your claims with relevant documentation. Upload PDFs, Word documents, or images to provide evidence for your monthly hours and activities.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Role-Based Access Section -->
+<section class="roles-section py-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="fw-bold text-dark mb-3">Access Based on Your Role</h2>
+            <p class="lead text-muted">Tailored interfaces for different user responsibilities</p>
+        </div>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-lg role-card">
+                    <div class="card-header bg-primary text-white text-center py-3">
+                        <h5 class="mb-0">👨‍🏫 Lecturer</h5>
                     </div>
                     <div class="card-body text-center p-4">
-                        <p class="card-text text-muted mb-4">
-                            Submit claims, track approvals, and manage your teaching compensation with ease.
-                        </p>
-                        <div class="role-features mb-4">
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fas fa-edit text-primary me-2"></i>
-                                <small>Easy claim submission</small>
-                            </div>
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fas fa-chart-bar text-primary me-2"></i>
-                                <small>Real-time tracking</small>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <i class="fas fa-paperclip text-primary me-2"></i>
-                                <small>Document upload</small>
-                            </div>
-                        </div>
+                        <p class="card-text mb-4">Submit and track your monthly teaching claims, upload supporting documents, and monitor approval status.</p>
                         <div class="d-grid gap-2">
-                            <a href="/Claims/Create" class="btn btn-primary">Submit Claim</a>
-                            <a href="/Claims/Index" class="btn btn-outline-primary">View Claims</a>
+                            <a href="/Claims/Create" class="btn btn-primary">Submit New Claim</a>
+                            <a href="/Claims/Index" class="btn btn-outline-primary">View My Claims</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="role-card card h-100 border-0 shadow-lg hover-lift">
-                    <div class="card-header bg-warning text-dark text-center py-4 rounded-top">
-                        <div class="role-icon mb-3">
-                            <i class="fas fa-user-tie display-1"></i>
-                        </div>
-                        <h4 class="mb-0">Coordinator</h4>
+                <div class="card h-100 border-0 shadow-lg role-card">
+                    <div class="card-header bg-warning text-dark text-center py-3">
+                        <h5 class="mb-0">👨‍💼 Coordinator</h5>
                     </div>
                     <div class="card-body text-center p-4">
-                        <p class="card-text text-muted mb-4">
-                            Review, verify, and approve claims with comprehensive oversight and validation tools.
-                        </p>
-                        <div class="role-features mb-4">
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fas fa-search text-warning me-2"></i>
-                                <small>Claim verification</small>
-                            </div>
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fas fa-check-circle text-warning me-2"></i>
-                                <small>Approval workflow</small>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <i class="fas fa-clipboard-check text-warning me-2"></i>
-                                <small>Quality control</small>
-                            </div>
-                        </div>
+                        <p class="card-text mb-4">Review, verify, and approve pending claims. Ensure accuracy and compliance before forwarding to management.</p>
                         <div class="d-grid">
                             <a href="/Coordinator/Index" class="btn btn-warning">Review Claims</a>
                         </div>
@@ -284,31 +144,12 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="role-card card h-100 border-0 shadow-lg hover-lift">
-                    <div class="card-header bg-success text-white text-center py-4 rounded-top">
-                        <div class="role-icon mb-3">
-                            <i class="fas fa-user-check display-1"></i>
-                        </div>
-                        <h4 class="mb-0">Manager</h4>
+                <div class="card h-100 border-0 shadow-lg role-card">
+                    <div class="card-header bg-success text-white text-center py-3">
+                        <h5 class="mb-0">👔 Manager</h5>
                     </div>
                     <div class="card-body text-center p-4">
-                        <p class="card-text text-muted mb-4">
-                            Final authorization, payment processing, and financial oversight with comprehensive reporting.
-                        </p>
-                        <div class="role-features mb-4">
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fas fa-money-check-alt text-success me-2"></i>
-                                <small>Payment processing</small>
-                            </div>
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fas fa-chart-pie text-success me-2"></i>
-                                <small>Financial reports</small>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <i class="fas fa-bolt text-success me-2"></i>
-                                <small>Final approval</small>
-                            </div>
-                        </div>
+                        <p class="card-text mb-4">Final approval and payment processing. Authorize payments for verified claims and maintain financial oversight.</p>
                         <div class="d-grid">
                             <a href="/Manager/Index" class="btn btn-success">Process Payments</a>
                         </div>
@@ -319,178 +160,53 @@
     </div>
 </section>
 
-<!-- Enhanced CTA Section -->
+<!-- CTA Section -->
 <section class="cta-section py-5 bg-primary text-white">
     <div class="container text-center">
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h2 class="fw-bold display-5 mb-3">Ready to Transform Your Claim Process?</h2>
-                <p class="lead mb-4 fs-5">
-                    Join hundreds of academic professionals who have streamlined their monthly claim management with our platform.
-                </p>
-                <div class="d-flex flex-wrap justify-content-center gap-3">
-                    <a href="/Claims/Create" class="btn btn-warning btn-lg px-5 fw-bold shadow-hover">
-                        <i class="fas fa-rocket me-2"></i>Get Started Free
-                    </a>
-                    <a href="/Auth/Login" class="btn btn-outline-light btn-lg px-5 shadow-hover">
-                        <i class="fas fa-sign-in-alt me-2"></i>Sign In
-                    </a>
-                </div>
-                <div class="mt-4">
-                    <small class="opacity-75">
-                        <i class="fas fa-credit-card me-1"></i>No credit card required •
-                        <i class="fas fa-clock me-1"></i>Setup in minutes •
-                        <i class="fas fa-headset me-1"></i>24/7 Support
-                    </small>
-                </div>
-            </div>
-        </div>
+        <h2 class="fw-bold mb-3">Ready to Get Started?</h2>
+        <p class="lead mb-4">Join hundreds of contractors who streamline their claim process with our system</p>
+        <a href="/Claims/Create" class="btn btn-light btn-lg px-5 fw-bold">
+            Get Started Today
+        </a>
     </div>
 </section>
-
-<!-- Add Font Awesome CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 <style>
     .bg-gradient-primary {
         background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
     }
 
-    .min-vh-80 {
-        min-height: 80vh;
+    .min-vh-50 {
+        min-height: 50vh;
     }
 
     .feature-card, .role-card {
-        transition: all 0.3s ease;
-        border-radius: 15px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
         .feature-card:hover, .role-card:hover {
-            transform: translateY(-8px);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1) !important;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important;
         }
 
-    .hover-lift:hover {
-        transform: translateY(-5px);
+    .hero-graphic .card {
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255,255,255,0.2) !important;
     }
 
-    .shadow-hover {
+    .feature-icon {
+        transition: transform 0.3s ease;
+    }
+
+    .feature-card:hover .feature-icon {
+        transform: scale(1.1);
+    }
+
+    .btn {
         transition: all 0.3s ease;
     }
 
-        .shadow-hover:hover {
+        .btn:hover {
             transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
         }
-
-    .backdrop-blur {
-        backdrop-filter: blur(10px);
-    }
-
-    .animate-fade-in {
-        animation: fadeIn 1s ease-in;
-    }
-
-    @@keyframes fadeIn {
-        from {
-            opacity: 0;
-            transform: translateY(20px);
-        }
-
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    }
-
-    .stat-card:hover .stat-icon {
-        transform: scale(1.1);
-    }
-
-    .stat-icon {
-        transition: transform 0.3s ease;
-    }
-
-    .feature-icon-wrapper {
-        transition: transform 0.3s ease;
-    }
-
-    .feature-card:hover .feature-icon-wrapper {
-        transform: scale(1.05);
-    }
-
-    .role-icon {
-        transition: transform 0.3s ease;
-    }
-
-    .role-card:hover .role-icon {
-        transform: scale(1.1);
-    }
-
-    /* Color scheme using red, yellow, blue, green */
-    .btn-primary {
-        background-color: #007bff;
-        border-color: #007bff;
-    }
-
-    .btn-warning {
-        background-color: #ffc107;
-        border-color: #ffc107;
-        color: #000;
-    }
-
-    .btn-success {
-        background-color: #28a745;
-        border-color: #28a745;
-    }
-
-    .btn-info {
-        background-color: #17a2b8;
-        border-color: #17a2b8;
-    }
-
-    .btn-danger {
-        background-color: #dc3545;
-        border-color: #dc3545;
-    }
-
-    .bg-primary {
-        background-color: #007bff !important;
-    }
-
-    .bg-warning {
-        background-color: #ffc107 !important;
-    }
-
-    .bg-success {
-        background-color: #28a745 !important;
-    }
-
-    .bg-danger {
-        background-color: #dc3545 !important;
-    }
-
-    .bg-info {
-        background-color: #17a2b8 !important;
-    }
-
-    .text-primary {
-        color: #007bff !important;
-    }
-
-    .text-warning {
-        color: #ffc107 !important;
-    }
-
-    .text-success {
-        color: #28a745 !important;
-    }
-
-    .text-danger {
-        color: #dc3545 !important;
-    }
-
-    .text-info {
-        color: #17a2b8 !important;
-    }
 </style>
