@@ -20,24 +20,40 @@ namespace CMCS_MVC_Prototype.Controllers
             _userService = userService;
         }
 
-        // GET: Claims/Index (My Claims)
-        public async Task<IActionResult> Index()
+        
+        // GET: Claims/Index
+        public async Task<IActionResult> Index(string lecturerId)
         {
             var currentUser = HttpContext.Items["User"] as User;
             List<Claim> claims;
 
             if (currentUser.Role == "HR")
             {
-                claims = await _claimService.GetAllClaimsAsync();
+                // HR can see ALL claims and search by any lecturerId
+                if (string.IsNullOrEmpty(lecturerId))
+                {
+                    claims = await _claimService.GetAllClaimsAsync();
+                }
+                else
+                {
+                    claims = await _claimService.GetClaimsByLecturerIdAsync(lecturerId);
+                }
+            }
+            else if (currentUser.Role == "Lecturer")
+            {
+                // Lecturers can only see their own claims
+                claims = await _claimService.GetClaimsByLecturerIdAsync(currentUser.LecturerId);
             }
             else
             {
+                // Coordinators and Managers see claims based on their role logic
                 claims = await _claimService.GetClaimsByLecturerIdAsync(currentUser.LecturerId);
             }
 
+            // Pass the search term to the view
+            ViewBag.LecturerId = lecturerId;
             return View(claims);
         }
-
         // GET: Claims/Create (Submit Claim)
         public async Task<IActionResult> Create()
         {

@@ -33,19 +33,43 @@
         <div class="card-body">
             <h5 class="card-title">
                 <span class="emoji-icon">🔍</span>
-                @(isHR ? "Filter Claims" : "Search My Claims")
+                @(isHR ? "Search Claims by Lecturer ID" : "Search My Claims")
             </h5>
             @using (Html.BeginForm("Index", "Claims", FormMethod.Get))
             {
-                <div class="form-row">
+                <div class="row g-2">
                     <div class="col-md-4">
-                        <input type="text" name="lecturerId" class="form-control" placeholder="Enter Lecturer ID" value="@ViewBag.LecturerId" />
+                        <input type="text" name="lecturerId" class="form-control"
+                               placeholder="@(isHR ? "Enter Lecturer ID to search..." : "Search your claims...")"
+                               value="@ViewBag.LecturerId" />
                     </div>
                     <div class="col-md-2">
-                        <button type="submit" class="btn btn-primary">Search</button>
-                        <a href="@Url.Action("Index")" class="btn btn-secondary">Clear</a>
+                        <button type="submit" class="btn btn-primary w-100">
+                            <span class="emoji-icon">🔍</span> Search
+                        </button>
+                    </div>
+                    <div class="col-md-2">
+                        <a href="@Url.Action("Index")" class="btn btn-secondary w-100">
+                            <span class="emoji-icon">🔄</span> Clear
+                        </a>
                     </div>
                 </div>
+                @if (isHR && !string.IsNullOrEmpty(ViewBag.LecturerId))
+                {
+                    <div class="mt-2">
+                        <small class="text-muted">
+                            Showing results for Lecturer ID: <strong>@ViewBag.LecturerId</strong>
+                            @if (!Model.Any())
+                            {
+                                <span class="text-warning"> - No claims found</span>
+                            }
+                            else
+                            {
+                                <span class="text-success"> - Found @Model.Count() claims</span>
+                            }
+                        </small>
+                    </div>
+                }
             }
         </div>
     </div>
@@ -55,7 +79,7 @@
     {
         <div class="row mb-4">
             <div class="col-md-3">
-                <div class="card text-white bg-primary">
+                <div class="card text-white bg-primary stats-card">
                     <div class="card-body">
                         <div class="d-flex justify-content-between">
                             <div>
@@ -68,7 +92,7 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <div class="card text-white bg-warning">
+                <div class="card text-white bg-warning stats-card">
                     <div class="card-body">
                         <div class="d-flex justify-content-between">
                             <div>
@@ -81,7 +105,7 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <div class="card text-white bg-success">
+                <div class="card text-white bg-success stats-card">
                     <div class="card-body">
                         <div class="d-flex justify-content-between">
                             <div>
@@ -94,7 +118,7 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <div class="card text-white bg-info">
+                <div class="card text-white bg-info stats-card">
                     <div class="card-body">
                         <div class="d-flex justify-content-between">
                             <div>
@@ -207,11 +231,33 @@
     else
     {
         <div class="alert alert-info text-center">
+            <div style="font-size: 4rem;">📋</div>
             <h4>No claims found</h4>
-            <p>@(isHR ? "There are no claims matching your search criteria." : "You haven't submitted any claims yet.")</p>
+            <p class="text-muted">
+                @if (isHR && !string.IsNullOrEmpty(ViewBag.LecturerId))
+                {
+                    <text>No claims found for Lecturer ID: <strong>@ViewBag.LecturerId</strong></text>
+                }
+                else if (isHR)
+                {
+                    <text>There are no claims in the system yet.</text>
+                }
+                else
+                {
+                    <text>You haven't submitted any claims yet.</text>
+                }
+            </p>
             @if (!isHR)
             {
-                <a asp-action="Create" class="btn btn-primary">Submit Your First Claim</a>
+                <a asp-action="Create" class="btn btn-primary">
+                    <span class="emoji-icon">➕</span> Submit Your First Claim
+                </a>
+            }
+            else if (!string.IsNullOrEmpty(ViewBag.LecturerId))
+            {
+                <a href="@Url.Action("Index")" class="btn btn-secondary">
+                    <span class="emoji-icon">🔄</span> View All Claims
+                </a>
             }
         </div>
     }

@@ -85,25 +85,20 @@
 
                             @if (userRole == "HR")
                             {
-                                <!-- HR sees all admin features (no Home) -->
+                                <!-- HR sees all admin and oversight features -->
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="HR" asp-action="Index">
                                         <span class="emoji-icon">👥</span> User Management
                                     </a>
                                 </li>
                                 <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Claims" asp-action="Index">
+                                        <span class="emoji-icon">📋</span> All Claims
+                                    </a>
+                                </li>
+                                <li class="nav-item">
                                     <a class="nav-link" asp-controller="HR" asp-action="Reports">
                                         <span class="emoji-icon">📊</span> Reports
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" asp-controller="Coordinator" asp-action="Index">
-                                        <span class="emoji-icon">👨‍💼</span> Coordinator
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" asp-controller="Manager" asp-action="Index">
-                                        <span class="emoji-icon">👔</span> Manager
                                     </a>
                                 </li>
                             }
@@ -197,4 +192,4 @@
         @RenderSection("Scripts", required: false)
     }
 </body>
-</html>
+</html></html>
