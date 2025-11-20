@@ -45,11 +45,15 @@
                         </li>
                         @if (Context.Items["User"] != null)
                         {
-                            <li class="nav-item">
-                                <a class="nav-link" asp-controller="Claims" asp-action="Index">
-                                    <span class="emoji-icon">📄</span>My Claims
-                                </a>
-                            </li>
+                            <!-- Only show My Claims for Lecturers and HR, NOT for Coordinators or Managers -->
+                            @if (Context.Items["UserRole"] as string == "Lecturer" || Context.Items["UserRole"] as string == "HR")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Claims" asp-action="Index">
+                                        <span class="emoji-icon">📄</span>My Claims
+                                    </a>
+                                </li>
+                            }
 
                             @if (Context.Items["UserRole"] as string == "Lecturer")
                             {
