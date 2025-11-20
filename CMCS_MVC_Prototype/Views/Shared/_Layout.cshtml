@@ -38,63 +38,82 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav me-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Home" asp-action="Index">
-                                <span class="emoji-icon">🏠</span>Home
-                            </a>
-                        </li>
                         @if (Context.Items["User"] != null)
                         {
-                            <!-- Only show My Claims for Lecturers and HR, NOT for Coordinators or Managers -->
-                            @if (Context.Items["UserRole"] as string == "Lecturer" || Context.Items["UserRole"] as string == "HR")
+                            var userRole = Context.Items["UserRole"] as string;
+
+                            <!-- Show role-specific navigation -->
+                            @if (userRole == "Lecturer")
                             {
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Claims" asp-action="Index">
-                                        <span class="emoji-icon">📄</span>My Claims
+                                        <span class="emoji-icon">📄</span> My Claims
                                     </a>
                                 </li>
-                            }
-
-                            @if (Context.Items["UserRole"] as string == "Lecturer")
-                            {
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Claims" asp-action="Create">
-                                        <span class="emoji-icon">➕</span>Submit Claim
+                                        <span class="emoji-icon">➕</span> Submit Claim
                                     </a>
                                 </li>
                             }
 
-                            @if (Context.Items["UserRole"] as string == "HR")
+                            @if (userRole == "Coordinator")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Coordinator" asp-action="Index">
+                                        <span class="emoji-icon">👨‍💼</span> Review Claims
+                                    </a>
+                                </li>
+                            }
+
+                            @if (userRole == "Manager")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Manager" asp-action="Index">
+                                        <span class="emoji-icon">👔</span> Process Payments
+                                    </a>
+                                </li>
+                            }
+
+                            @if (userRole == "HR")
                             {
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="HR" asp-action="Index">
-                                        <span class="emoji-icon">👥</span>User Management
+                                        <span class="emoji-icon">👥</span> User Management
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="HR" asp-action="Reports">
-                                        <span class="emoji-icon">📊</span>Reports
+                                        <span class="emoji-icon">📊</span> Reports
                                     </a>
                                 </li>
-                            }
-
-                            @if (Context.Items["UserRole"] as string == "Coordinator")
-                            {
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Coordinator" asp-action="Index">
-                                        <span class="emoji-icon">👨‍💼</span>Coordinator
+                                        <span class="emoji-icon">👨‍💼</span> Coordinator
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Manager" asp-action="Index">
+                                        <span class="emoji-icon">👔</span> Manager
                                     </a>
                                 </li>
                             }
 
-                            @if (Context.Items["UserRole"] as string == "Manager")
-                            {
-                                <li class="nav-item">
-                                    <a class="nav-link" asp-controller="Manager" asp-action="Index">
-                                        <span class="emoji-icon">👔</span>Manager
-                                    </a>
-                                </li>
-                            }
+                            <!-- Home page available to all logged-in users -->
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                    <span class="emoji-icon">🏠</span> Home
+                                </a>
+                            </li>
+                        }
+                        else
+                        {
+                            <!-- Show only Home for non-logged in users -->
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                    <span class="emoji-icon">🏠</span> Home
+                                </a>
+                            </li>
                         }
                     </ul>
 
@@ -117,7 +136,7 @@
                         {
                             <li class="nav-item">
                                 <a class="nav-link" asp-controller="Auth" asp-action="Login">
-                                    <span class="emoji-icon">🔐</span>Login
+                                    <span class="emoji-icon">🔐</span> Login
                                 </a>
                             </li>
                         }
@@ -144,7 +163,6 @@
             </div>
         }
 
-        <!-- THIS IS THE CRITICAL LINE THAT WAS MISSING -->
         @RenderBody()
     </main>
 
