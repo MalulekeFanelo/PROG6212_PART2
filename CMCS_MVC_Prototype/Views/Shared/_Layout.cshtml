@@ -45,6 +45,12 @@
                             <!-- Show role-specific navigation -->
                             @if (userRole == "Lecturer")
                             {
+                                <!-- Lecturers can see Home + their features -->
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                        <span class="emoji-icon">🏠</span> Home
+                                    </a>
+                                </li>
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Claims" asp-action="Index">
                                         <span class="emoji-icon">📄</span> My Claims
@@ -59,6 +65,7 @@
 
                             @if (userRole == "Coordinator")
                             {
+                                <!-- Coordinators ONLY see their work area -->
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Coordinator" asp-action="Index">
                                         <span class="emoji-icon">👨‍💼</span> Review Claims
@@ -68,6 +75,7 @@
 
                             @if (userRole == "Manager")
                             {
+                                <!-- Managers ONLY see their work area -->
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="Manager" asp-action="Index">
                                         <span class="emoji-icon">👔</span> Process Payments
@@ -77,6 +85,7 @@
 
                             @if (userRole == "HR")
                             {
+                                <!-- HR sees all admin features (no Home) -->
                                 <li class="nav-item">
                                     <a class="nav-link" asp-controller="HR" asp-action="Index">
                                         <span class="emoji-icon">👥</span> User Management
@@ -99,19 +108,24 @@
                                 </li>
                             }
 
-                            <!-- Home page available to all logged-in users -->
+                            <!-- Privacy link available to ALL logged-in users -->
                             <li class="nav-item">
-                                <a class="nav-link" asp-controller="Home" asp-action="Index">
-                                    <span class="emoji-icon">🏠</span> Home
+                                <a class="nav-link" asp-controller="Home" asp-action="Privacy">
+                                    <span class="emoji-icon">🔒</span> Privacy
                                 </a>
                             </li>
                         }
                         else
                         {
-                            <!-- Show only Home for non-logged in users -->
+                            <!-- Show Home and Privacy for non-logged in users -->
                             <li class="nav-item">
                                 <a class="nav-link" asp-controller="Home" asp-action="Index">
                                     <span class="emoji-icon">🏠</span> Home
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Home" asp-action="Privacy">
+                                    <span class="emoji-icon">🔒</span> Privacy
                                 </a>
                             </li>
                         }
