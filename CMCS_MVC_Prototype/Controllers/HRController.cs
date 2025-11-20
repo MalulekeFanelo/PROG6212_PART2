@@ -53,19 +53,19 @@ namespace CMCS_MVC_Prototype.Controllers
 
                     user.PasswordHash = _authService.HashPassword(password);
 
-                    // Only generate Lecturer ID for lecturers
+                    // Generate unique ID for ALL users (not just lecturers)
                     if (user.Role == "Lecturer")
                     {
                         user.GenerateLecturerId();
                     }
                     else
                     {
-                        user.LecturerId = ""; // Clear for non-lecturers
-                        user.HourlyRate = 0; // Set hourly rate to 0 for non-lecturers
+                        // Generate a staff ID for non-lecturers
+                        user.GenerateStaffId();
                     }
 
                     await _userService.CreateUserAsync(user);
-                    TempData["SuccessMessage"] = $"User created successfully! {(user.Role == "Lecturer" ? $"Lecturer ID: {user.LecturerId}" : "")}";
+                    TempData["SuccessMessage"] = $"User created successfully! ID: {user.LecturerId}";
                     return RedirectToAction(nameof(Index));
                 }
                 catch (Exception ex)
@@ -75,7 +75,6 @@ namespace CMCS_MVC_Prototype.Controllers
             }
             return View(user);
         }
-
         // GET: /HR/Edit/5
         public async Task<IActionResult> Edit(int id)
         {
@@ -100,6 +99,12 @@ namespace CMCS_MVC_Prototype.Controllers
             {
                 try
                 {
+                    // If user is not a lecturer, ensure hourly rate is 0
+                    if (user.Role != "Lecturer")
+                    {
+                        user.HourlyRate = 0;
+                    }
+
                     await _userService.UpdateUserAsync(user);
                     TempData["SuccessMessage"] = "User updated successfully!";
                     return RedirectToAction(nameof(Index));

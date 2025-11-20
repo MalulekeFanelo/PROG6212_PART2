@@ -1,5 +1,4 @@
-﻿@* Views/HR/Edit.cshtml *@
-@model CMCS_MVC_Prototype.Models.User
+﻿@model CMCS_MVC_Prototype.Models.User
 @{
     ViewData["Title"] = "Edit User";
 }
@@ -56,7 +55,7 @@
                             <div class="col-md-6">
                                 <div class="mb-3">
                                     <label asp-for="Role" class="form-label fw-bold"></label>
-                                    <select asp-for="Role" class="form-control">
+                                    <select asp-for="Role" class="form-control" id="roleSelect">
                                         <option value="Lecturer">👨‍🏫 Lecturer</option>
                                         <option value="Coordinator">👨‍💼 Coordinator</option>
                                         <option value="Manager">👔 Manager</option>
@@ -70,10 +69,11 @@
                                     <label asp-for="HourlyRate" class="form-label fw-bold"></label>
                                     <div class="input-group">
                                         <span class="input-group-text">R</span>
-                                        <input asp-for="HourlyRate" type="number" step="0.01" min="1" max="1000"
-                                               class="form-control" />
+                                        <input asp-for="HourlyRate" type="number" step="0.01" min="0" max="10000"
+                                               class="form-control" id="hourlyRate" />
                                     </div>
                                     <span asp-validation-for="HourlyRate" class="text-danger"></span>
+                                    <small class="form-text text-muted" id="rateHelp">Hourly rate for lecturers</small>
                                 </div>
                             </div>
                         </div>
@@ -99,3 +99,28 @@
         </div>
     </div>
 </div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            function toggleHourlyRate() {
+                var role = $('#roleSelect').val();
+                if (role === 'Lecturer') {
+                    $('#hourlyRate').prop('disabled', false);
+                    $('#rateHelp').show();
+                    // Set minimum to 1 for lecturers
+                    $('#hourlyRate').attr('min', '1');
+                } else {
+                    $('#hourlyRate').prop('disabled', false); // Still enabled but with different rules
+                    $('#hourlyRate').attr('min', '0'); // Allow 0 for non-lecturers
+                    $('#rateHelp').text('Set to 0 for non-lecturer roles');
+                }
+            }
+
+            $('#roleSelect').change(toggleHourlyRate);
+
+            // Initialize based on current role
+            toggleHourlyRate();
+        });
+    </script>
+}

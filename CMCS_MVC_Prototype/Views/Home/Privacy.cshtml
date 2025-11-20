@@ -1,45 +1,195 @@
 ﻿@{
     ViewData["Title"] = "Privacy Policy";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>
-    Privacy Policy
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h1 class="card-title mb-0">🔒 @ViewData["Title"]</h1>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-info">
+                        <strong>📋 CMCS Privacy Commitment:</strong> We are dedicated to protecting your personal information and maintaining transparency about how we handle your data.
+                    </div>
 
-    CMCS_MVC_Prototype respects your privacy and is committed to protecting any personal information collected through the platform.
+                    <div class="privacy-content">
+                        <!-- Information Collection -->
+                        <section class="mb-4">
+                            <h3 class="text-primary mb-3">📥 Information We Collect</h3>
+                            <div class="ms-4">
+                                <div class="d-flex align-items-start mb-2">
+                                    <span class="badge bg-info me-2 mt-1">✓</span>
+                                    <div>
+                                        <strong>Account Information:</strong> Name, email address, role (Lecturer, Coordinator, Manager, HR), and lecturer ID
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-start mb-2">
+                                    <span class="badge bg-info me-2 mt-1">✓</span>
+                                    <div>
+                                        <strong>Claim Data:</strong> Monthly hours worked, hourly rates, total amounts, supporting documents, and claim status
+                                    </div>
+                                </div>
+                                <div class="d-flex align-items-start">
+                                    <span class="badge bg-info me-2 mt-1">✓</span>
+                                    <div>
+                                        <strong>System Usage:</strong> Login timestamps and claim submission dates for audit purposes
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
 
-    Information Collected
+                        <!-- How We Use Information -->
+                        <section class="mb-4">
+                            <h3 class="text-primary mb-3">🎯 How We Use Your Information</h3>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="card h-100 border-0 bg-light">
+                                        <div class="card-body">
+                                            <h6 class="card-title">📊 Claims Processing</h6>
+                                            <p class="card-text small">To efficiently process, approve, and manage monthly teaching claims through our automated workflow system.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card h-100 border-0 bg-light">
+                                        <div class="card-body">
+                                            <h6 class="card-title">🛡️ System Security</h6>
+                                            <p class="card-text small">To maintain platform security, prevent fraud, and ensure only authorized users access sensitive information.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
 
-    User details such as name, email, and role (e.g., Independent Contractor lecturer).
+                        <!-- Data Protection -->
+                        <section class="mb-4">
+                            <h3 class="text-primary mb-3">🛡️ Data Protection & Security</h3>
+                            <div class="alert alert-success">
+                                <div class="d-flex align-items-center">
+                                    <span class="fs-4 me-3">🔐</span>
+                                    <div>
+                                        <strong>Enterprise-Grade Security:</strong> All data is encrypted and stored securely in our SQL Server database with role-based access controls.
+                                    </div>
+                                </div>
+                            </div>
+                            <ul class="list-unstyled ms-3">
+                                <li class="mb-2">✅ Password hashing using SHA-256 encryption</li>
+                                <li class="mb-2">✅ Role-based access control system</li>
+                                <li class="mb-2">✅ Secure file upload handling for claim documents</li>
+                                <li class="mb-2">✅ Regular database backups and security updates</li>
+                            </ul>
+                        </section>
 
-    Monthly claim submissions, including amounts and related documents.
+                        <!-- Third-Party Sharing -->
+                        <section class="mb-4">
+                            <h3 class="text-primary mb-3">🚫 Third-Party Data Sharing</h3>
+                            <div class="alert alert-warning">
+                                <strong>Zero External Sharing Policy:</strong> We do not share, sell, or distribute your personal data to any external third parties. All data remains within the CMCS platform.
+                            </div>
+                        </section>
 
-    How Information is Used
+                        <!-- User Rights -->
+                        <section class="mb-4">
+                            <h3 class="text-primary mb-3">👤 Your Rights & Control</h3>
+                            <div class="row g-3">
+                                <div class="col-sm-6">
+                                    <div class="d-flex align-items-center p-3 border rounded">
+                                        <span class="fs-3 me-3">👀</span>
+                                        <div>
+                                            <strong>View & Access</strong><br>
+                                            <small>Access your personal information and claim history</small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="d-flex align-items-center p-3 border rounded">
+                                        <span class="fs-3 me-3">✏️</span>
+                                        <div>
+                                            <strong>Update & Correct</strong><br>
+                                            <small>Request updates to your personal details</small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="d-flex align-items-center p-3 border rounded">
+                                        <span class="fs-3 me-3">📥</span>
+                                        <div>
+                                            <strong>Data Export</strong><br>
+                                            <small>Request export of your claim data</small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="d-flex align-items-center p-3 border rounded">
+                                        <span class="fs-3 me-3">🗑️</span>
+                                        <div>
+                                            <strong>Account Deletion</strong><br>
+                                            <small>Request account deletion per applicable laws</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
 
-    To process and manage claims efficiently.
+                        <!-- Contact Information -->
+                        <section class="mb-4">
+                            <h3 class="text-primary mb-3">📞 Contact & Support</h3>
+                            <div class="card bg-light">
+                                <div class="card-body">
+                                    <div class="row align-items-center">
+                                        <div class="col-md-8">
+                                            <h5>Privacy Concerns & Questions</h5>
+                                            <p class="mb-2">For any privacy-related inquiries or to exercise your data rights, please contact our support team:</p>
+                                            <div class="d-flex align-items-center mb-1">
+                                                <span class="me-2">📧</span>
+                                                <strong>Email:</strong>
+                                                <span class="ms-2">support@cmcs.university.edu</span>
+                                            </div>
+                                            <div class="d-flex align-items-center">
+                                                <span class="me-2">🕒</span>
+                                                <strong>Response Time:</strong>
+                                                <span class="ms-2">Within 48 business hours</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 text-center">
+                                            <div class="display-1">🔒</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
 
-    To improve the functionality and security of the platform.
+                        <!-- Last Updated -->
+                        <div class="text-center mt-5 pt-3 border-top">
+                            <small class="text-muted">
+                                <strong>Last Updated:</strong> @DateTime.Now.ToString("MMMM dd, yyyy") |
+                                <strong>Version:</strong> 2.1
+                            </small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-    Data Protection
+<style>
+    .privacy-content h3 {
+        border-bottom: 2px solid #e9ecef;
+        padding-bottom: 0.5rem;
+    }
 
-    All data is stored securely in the database.
+    .card {
+        transition: transform 0.2s ease-in-out;
+    }
 
-    Temporary files and development metadata (e.g., .vs folder) are not shared or tracked.
+        .card:hover {
+            transform: translateY(-2px);
+        }
 
-    Third-Party Sharing
-
-    No personal data is shared with external parties.
-
-    Any integration with external services will be disclosed and comply with data protection standards.
-
-    User Rights
-
-    Users can view and update their information.
-
-    Users may request deletion of their data in accordance with applicable data protection laws.
-
-    Contact
-
-    For privacy concerns or questions, contact:
-    Email: support@cmcsprototype.local.
-</p>
+    .badge {
+        font-size: 0.7em;
+    }
+</style>
