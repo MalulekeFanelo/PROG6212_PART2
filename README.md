@@ -3,6 +3,8 @@
 Youtube video link: 
 https://youtu.be/y5Fd3QBPHmE
 
+Power Point Sldes Link: https://1drv.ms/p/c/af22570ea07a3046/IQBta7yG5N_GQI4qnYI5KKgFAVZZbjaVkr16uS9hz3wPaiw?e=dgJ4Ho 
+
 ## 📋 Overview
 The **Contract Monthly Claim System (CMCS)** is a comprehensive web application designed to streamline the monthly claim submission and approval process for academic contractors. Built with ASP.NET Core MVC and SQL Server, it provides a secure, efficient, and user-friendly platform for managing contractor payments.
 
