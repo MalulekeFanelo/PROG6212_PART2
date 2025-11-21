@@ -225,18 +225,7 @@ CMCS_MVC_Prototype/
 
 ---
 
-## 🚀 Future Enhancements
 
-- [ ] Email notifications and reminders
-- [ ] Mobile application
-- [ ] REST API for third-party integrations
-- [ ] Advanced analytics dashboard
-- [ ] Multi-language support
-- [ ] Payment gateway integration
-- [ ] Bulk operations
-- [ ] Advanced reporting features
-
----
 
 ## 🤝 Contributing
 
@@ -270,7 +259,8 @@ A comprehensive PowerPoint presentation is available showcasing:
 - User workflows and features
 - Technical specifications
 - Business value proposition
+- For intial login for testing, here are login credentials: HR Admin - hr@university.edu / admin123
 
 ---
 
-**Built with ❤️ using ASP.NET Core, SQL Server, and modern web technologies**
+
